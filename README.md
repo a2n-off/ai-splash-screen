@@ -13,7 +13,7 @@ Place the source (`a2n.splashscreen` folder) in `~/.local/share/plasma/look-and-
 ## Configuration
 
 | Name | Description |
-|--|--|--|
+|--|--|
 | change the logo - option 1 | in `/a2n.splashscreen/contents/splash/images/` replace the image and rename it `logo.svg` |
 | change the logo - option 2 | in `a2n.splashscreen/contents/splash/Splash.qml` replace the value of `source: "images/logo.svg"` line 36 |
 | change the wallpaper - option 1 | in `/a2n.splashscreen/contents/splash/images/` replace the image and rename it `background.jpg` |
